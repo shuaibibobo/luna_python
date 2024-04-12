@@ -6,7 +6,6 @@ import common.server_management as init
 
 """
 测试目的:希望你可以正常使用指纹
-<如果你未授权、除了user-agent>其他指纹并不会生效
 """
 
 
